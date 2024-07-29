@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "python": "/home/t1/anaconda3/envs/Pytorch/bin/python",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args":["--ratio", "0.02", "--num_run", "1", "--dataset_dir", "/home/t1/DL_Code/DATASET/", "--model", 
+            "morphFormer", "--bs", "128", "--dataset_name", "IndianPines"]
+        }
+    ]
+}

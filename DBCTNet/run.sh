@@ -1,0 +1,1 @@
+python3 train_test.py --dataset HU --train_ratio 0.025 --epochs 200 --lr 0.001 --gamma 0.4 --n_run 10

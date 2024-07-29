@@ -1,0 +1,8 @@
+[09:12:14.283] parameter: 123786
+[09:12:40.257] Std OA is nan
+[09:12:40.259] Std AA is nan
+[09:12:40.259] Std Kappa is nan
+[09:12:40.259] OA is 70.12444213558763
+[09:12:40.259] AA is 0.6526604859062943, kappa is 0.621433566105443
+[09:12:40.259] The number of training parameters is 123786.0
+[09:12:40.259] Train time is 21.52538251876831, test time is 3.983347177505493

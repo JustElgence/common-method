@@ -1,0 +1,8 @@
+[08:45:38.810] parameter: 152625
+[08:45:47.816] Std OA is nan
+[08:45:47.816] Std AA is nan
+[08:45:47.816] Std Kappa is nan
+[08:45:47.816] OA is 67.10513495079411
+[08:45:47.816] AA is 0.4925586159289489, kappa is 0.6175811645708819
+[08:45:47.816] The number of training parameters is 152625.0
+[08:45:47.816] Train time is 7.214927673339844, test time is 1.5061466693878174

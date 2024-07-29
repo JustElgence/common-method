@@ -1,0 +1,6 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: scikit-learn in d:\anaconda\envs\superpixel\lib\site-packages (0.24.1)
+Requirement already satisfied: numpy>=1.13.3 in d:\anaconda\envs\superpixel\lib\site-packages (from scikit-learn) (1.19.5)
+Requirement already satisfied: scipy>=0.19.1 in d:\anaconda\envs\superpixel\lib\site-packages (from scikit-learn) (1.5.4)
+Requirement already satisfied: joblib>=0.11 in d:\anaconda\envs\superpixel\lib\site-packages (from scikit-learn) (1.0.1)
+Requirement already satisfied: threadpoolctl>=2.0.0 in d:\anaconda\envs\superpixel\lib\site-packages (from scikit-learn) (2.1.0)
